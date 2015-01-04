@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "CSS Scraping"
+title: "Analyze Boulder: CSS Scraping and Analysis"
+location: "Boulder, Colorado"
+delivery_date: 2015-01-07
+slides_url: 'https://speakerdeck.com/alexmcpherson/css-scraping-and-analysis'
 modified:
-categories:
+categories: 'talk'
 excerpt:
 tags: []
-image:
-  feature:
 date: 2015-01-03T15:28:42-07:00
-link: http://reports.quickleft.com/css
 ---
 
-<a class="btn btn-success" href="http://reports.quickleft.com/css"><i class="fa fa-fw fa-bar-chart-o"></i>&nbsp; View CSS Scraping and Results</a>
+<a class="btn btn-success" href="http://reports.quickleft.com/css"><i class="fa fa-fw fa-bar-chart-o"></i>&nbsp; View CSS Scraping and Results Report</a>
 
 I spent some time at the end of 2014 gathering information about how people write CSS _for real_, not how they say they write it on their blogs.
 
