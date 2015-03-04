@@ -6,7 +6,7 @@ delivery_date: 2013-03-03
 slides_url: 'https://github.com/alexmcpherson/jqueryTO-talk'
 video_url: 'http://www.youtube.com/watch?v=kwSVWlzEefE'
 video_embed: '<iframe width="853" height="480" src="//youtube.com/watch?v=kwSVWlzEefE?rel=0" frameborder="0" allowfullscreen></iframe>'
-date:   2013-03-03
+date:   2013-03-23T15:28:42-07:00
 categories: 'talk'
 background-image: 'toronto.png'
 ---

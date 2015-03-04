@@ -6,7 +6,7 @@ delivery_date: 2012-11-13
 slides_url: 'https://github.com/alexmcpherson/jquery-talk'
 video_url: 'http://www.youtube.com/watch?v=juRtEEsHI9E'
 video_embed: '<iframe width="853" height="480" src="//www.youtube.com/embed/juRtEEsHI9E?rel=0" frameborder="0" allowfullscreen></iframe>'
-date:   2012-11-13
+date: 2012-11-13
 categories: 'talk'
 background-image: 'js-summit.png'
 ---

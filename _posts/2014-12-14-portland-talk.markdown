@@ -1,6 +1,6 @@
 ---
 layout: talk
-title:  "The JavaScript Pyramid: Levelling Up JavaScript"
+title:  "The JavaScript Pyramid: Leveling Up JavaScript"
 location: "Portland, Oregon"
 delivery_date: 2013-06-13
 slides_url: 'https://github.com/alexmcpherson/jqueryTO-talk'

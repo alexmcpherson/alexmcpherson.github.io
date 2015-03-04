@@ -8,7 +8,6 @@ modified:
 categories: 'talk'
 excerpt:
 tags: []
-date: 2015-01-03T15:28:42-07:00
 ---
 
 <a class="btn btn-success" href="http://reports.quickleft.com/css"><i class="fa fa-fw fa-bar-chart-o"></i>&nbsp; View CSS Scraping and Results Report</a>
