@@ -10,8 +10,10 @@ image:
 date: 2015-04-25T04:32:46-07:00
 ---
 
+![](https://d3n8a8pro7vhmx.cloudfront.net/bhorowitz/pages/115/attachments/original/1390328798/book.png)
+
 ###Synopsis
-A long running blog by VC [Ben Horowitz](http://www.bhorowitz.com/) condensed into a book that flows... like a series of blog posts. Along with credibility-forming war stories, he covers advice on areas such as fund-raising, management, hiring executives, and dealing with rapid growth from an organizational perspective.
+[The Hard Thing About Hard Things](http://www.amazon.com/The-Hard-Thing-About-Things/dp/0062273205): A long running blog by VC [Ben Horowitz](http://www.bhorowitz.com/) is condensed into a book that flows... like a series of blog posts. Along with credibility-forming war stories, he covers advice on areas such as fund-raising, management, hiring executives, and dealing with rapid growth from an organizational perspective.
 
 Many pieces of advice are delivered as 'the right way' to do things. If you take these with a grain of salt and add the parts that jive well with you to your particular manager-toolbox,  it's definitely worth a read.
 
