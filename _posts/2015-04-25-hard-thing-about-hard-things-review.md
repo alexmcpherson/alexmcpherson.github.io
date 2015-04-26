@@ -10,7 +10,10 @@ image:
 date: 2015-04-25T04:32:46-07:00
 ---
 
-![](https://d3n8a8pro7vhmx.cloudfront.net/bhorowitz/pages/115/attachments/original/1390328798/book.png)
+<figure>
+  <a href="http://www.amazon.com/The-Hard-Thing-About-Things/dp/0062273205" class="image-popup"><img src="https://d3n8a8pro7vhmx.cloudfront.net/bhorowitz/pages/115/attachments/original/1390328798/book.png"></a>
+  <figcaption><a href="https://d3n8a8pro7vhmx.cloudfront.net/bhorowitz/pages/115/attachments/original/1390328798/book.png" title="Book Cover">A pretty good read; not too meaty</a></figcaption>
+</figure>
 
 ###Synopsis
 [The Hard Thing About Hard Things](http://www.amazon.com/The-Hard-Thing-About-Things/dp/0062273205): A long running blog by VC [Ben Horowitz](http://www.bhorowitz.com/) is condensed into a book that flows... like a series of blog posts. Along with credibility-forming war stories, he covers advice on areas such as fund-raising, management, hiring executives, and dealing with rapid growth from an organizational perspective.
