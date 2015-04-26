@@ -3,7 +3,7 @@ layout: post
 title: "Book Review: The Hard Thing About Hard Things"
 modified:
 categories: ['tech', 'reviews', 'books']
-excerpt: I read "The Hard Thing About Hard Thigns" by Ben Horowitz so you don't have to.
+excerpt: I read "The Hard Thing About Hard Things" by Ben Horowitz so you don't have to.
 tags: ['code']
 image:
   feature:
@@ -11,7 +11,7 @@ date: 2015-04-25T04:32:46-07:00
 ---
 
 ###Synopsis
-A long running VC block condensed into a book that flows... like a series of blog posts. Along with credibility-forming war stories, he covers advice on areas such as fundraising, management, hiring executives, and dealing with rapid growth from an organizational perspective.
+A long running blog by VC [Ben Horowitz](http://www.bhorowitz.com/) condensed into a book that flows... like a series of blog posts. Along with credibility-forming war stories, he covers advice on areas such as fund-raising, management, hiring executives, and dealing with rapid growth from an organizational perspective.
 
 Many pieces of advice are delivered as 'the right way' to do things. If you take these with a grain of salt and add the parts that jive well with you to your particular manager-toolbox,  it's definitely worth a read.
 
@@ -21,7 +21,7 @@ Who should read it
 
 - People looking for startup war stories from the early 2000's
 - Connoisseurs of hip hop/MBA crossover fiction
-- Early career CEOs or managers looking for a more aggressive/liberal perspective on startup mechanics
+- Early career CEOs or managers looking for a more aggressive  perspective on startup mechanics
 
 
 ###Non-comprehensive interesting bullet points
@@ -39,7 +39,7 @@ Short term fixes that need to get paid off later:
 
 - Dual promoting two peers
 - Overcompensating an employee with another offer
-- Lack of performance management/employee feedback processes
+- Lack of performance management / employee feedback processes
 
 
 #####Being a good company
@@ -58,34 +58,34 @@ That last point is particularly interesting to me: slice away your company's per
 
 #####Culture vs. perks
 
-Perks are not culture. Culture ties back to your business: Amazon saves people money, and started with doors for desks. Square is design focused. Their office is sick. A16Z is entrepreneur focused, so they pay out $10/minute when they're late for meetings.
+Perks are not culture. Culture ties back to your business: Amazon saves people money, and so started with doors for desks. Square is design focused. Their office is architecturally impressive. [A16Z](http://a16z.com/) is entrepreneur focused, so they pay out $10 / minute when they're late for meetings.
 
-Culture is *shared beliefs* not things you buy for employees.
+Culture is *shared beliefs*, not things you buy for employees.
 
 
 #####Screening hires
 
-Look out for two types of ambition with subtle differences: wanting company success, then theirs as a byproduct vs. theirs first regardless of company outcome.
+Look out for people with two types of subtly different ambition: those wanting company success, then theirs as a byproduct vs. theirs first regardless of company outcome. Will they care or feel responsible if your company goes under?
 
-Company size is important when hiring: don't overshoot and get a 'big' VP of xxxxx before you need it.
+Company size is important when hiring: don't overshoot and get a 'big' VP of xxxxx before you need it. They might not be effective without the scaffolding of a big company around them.
 
-Hire for strength, not lack of weaknesses
+Hire for strength, not lack of weaknesses.
 
 #####Politics due to lack of structure
 
 Politics show up when you're not strict and following process on:
 
 - Performance evaluation and compensation
-- Org design/territory
+- Organization design / territory
 - Promotions
 
-Be strict on those and you can avoid politicking .
+Be strict on those and you can avoid (a lot of) politicking.
 
 #####Training
 
 Train a team on your expectations. So easy. No one does it. Good product manager / bad product manager (extends to developers too, [see mine here](https://gist.github.com/alexmcpherson/e414f92976f90e6a46a9))
 
-Training yields career growth and happiness
-Training yields a crystal clear baseline for performance measurement
-Training keeps the product quality up
+- Training yields career growth and happiness
+- Training yields a crystal clear baseline for performance measurement
+- Training keeps the product quality up
 
